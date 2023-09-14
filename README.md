@@ -3,35 +3,39 @@ Welcome to my Customer Segmentation via Unsupervised Learning repository! This p
 
 <hr>
 
-![My Image](resouce/img5.png)
+![My Image](file/M&B.png)
 
 <hr>
 
-![My Image](resouce/img7.png)
+![My Image](file/M&B1.png)
 
 <hr>
 
-![My Image](resouce/img9.png)
+![My Image](file/M&B3.png)
 
 <hr>
 
-![My Image](resouce/img11.png)
+![My Image](file/M&B4.png)
 
 <hr>
 
-![My Image](resouce/img4.png)
+![My Image](file/M&B5.png)
 
 <hr>
 
-![My Image](resouce/img6.png)
+![My Image](file/M&B6.png)
 
 <hr>
 
-![My Image](resouce/img10.png)
+![My Image](file/M&B7.png)
 
 <hr>
 
-![My Image](resouce/img2.png)
+![My Image](file/M&B8.png)
+
+<hr>
+
+![My Image](file/M&B9.png)
 
 <hr>
 
